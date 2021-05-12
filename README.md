@@ -1,1 +1,1 @@
-Translation project for primadoll by Visual Arts
+Translation project for primadoll by Visual Arts / Key
