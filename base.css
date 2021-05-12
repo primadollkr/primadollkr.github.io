@@ -31,7 +31,7 @@ html , body {
 }
 
 .wrapper_box{
-	background-image: url("contents_bg.jpg");
+	background-image: url("https://key.visualarts.gr.jp/primadoll/common/image/contents_bg.jpg");
 	width: 100%;
 	background-size: cover;
 	background-attachment: fixed;
@@ -200,7 +200,7 @@ li{list-style-type:none}
 	width: 100%;
 	height: auto;
 	min-height: 100vh;
-	background-image: url("top_image_01.jpg");
+	background-image: url("https://key.visualarts.gr.jp/primadoll/common/image/top_image_01.jpg");
 	background-size: cover;
 	background-position: left top;
 	padding-bottom: 6%;
@@ -911,7 +911,7 @@ li{list-style-type:none}
 	width: 100%;
 	height: auto;
 	min-height: 100vh;
-	background-image: url("contents_bg.jpg");
+	background-image: url("https://key.visualarts.gr.jp/primadoll/common/image/contents_bg.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -920,7 +920,7 @@ li{list-style-type:none}
 	width: 100%;
 	height: auto;
 	min-height: 100vh;
-	background-image: url("contents_bg.jpg");
+	background-image: url("https://key.visualarts.gr.jp/primadoll/common/image/contents_bg.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	padding-top: 180px;
@@ -1409,7 +1409,7 @@ color:#f39c12;
 		width: 100%;
 		height: auto;
 		min-height: 100vh;
-		background-image: url("contents_bg.jpg");
+		background-image: url("https://key.visualarts.gr.jp/primadoll/common/image/contents_bg.jpg");
 		background-size: cover;
 		background-attachment: fixed;
 		padding-top: 0px;
